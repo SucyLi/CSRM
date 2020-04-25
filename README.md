@@ -1,2 +1,2 @@
-# CSRM
+# SRMC
 Shared Response Model for Connectivity 
