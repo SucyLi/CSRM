@@ -1,2 +1,2 @@
-# SRMC
-Shared Response Model for Connectivity 
+# cSRM
+Connectivity Shared Response Model
